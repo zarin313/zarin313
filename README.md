@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zarin</h1>
+<h1 align="center">Hello, I'm Zarin</h1>
 <br> 📫 How to reach me **zarinbhuiyan03@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
